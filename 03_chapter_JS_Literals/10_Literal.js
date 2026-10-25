@@ -1,0 +1,1 @@
+let a = 10; // Here 10 is literal. The assigned value of a variable is a literal.  
