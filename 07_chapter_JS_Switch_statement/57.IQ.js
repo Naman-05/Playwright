@@ -1,0 +1,16 @@
+// When we have two `switch` cases with the same number, then it will execute the first one. It will ignore the rest.
+
+let x = 10;
+switch (x) {
+    case 10:
+        let b1 = 1;
+        console.log(b1);
+        break;
+    case 10:
+        let b2 = 2;
+        console.log(b2);
+        break;
+    default:
+        console.log("d");
+
+}

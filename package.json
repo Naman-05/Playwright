@@ -1,0 +1,20 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)\r ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)\r ![Playwright](https://img.shields.io/badge/Playwright-Automation-52%25C7C7)",
+  "homepage": "https://github.com/Naman-05/Playwright#readme",
+  "bugs": {
+    "url": "https://github.com/Naman-05/Playwright/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naman-05/Playwright.git"
+  },
+  "license": "ISC",
+  "author": "Naman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
